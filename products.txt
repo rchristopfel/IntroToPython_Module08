@@ -1,0 +1,4 @@
+rug,4.66
+lamp,99.99
+christmas tree,59.99
+coffee maker,129.99
